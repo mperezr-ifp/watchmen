@@ -1,0 +1,83 @@
+html {
+    height: 100%;
+}
+
+img {
+    width: 10%;
+}
+
+body {    
+    text-align: center;
+    background-color:white;}
+
+    img:nth-child(1) {
+        position: absolute;
+        top: 8mm;
+        left: 19mm;
+        height: 90mm;
+        width: 57mm;
+    }
+
+    img:nth-child(2) {
+        position: absolute;
+        top: 8mm;
+        left: 78mm;
+        height: 90mm;
+        width: 57mm;
+            }
+
+img:nth-child(3) {
+position: absolute;
+top: 8mm;
+left: 136mm;
+height: 90mm;
+width: 57mm;
+}
+
+img:nth-child(4) {
+position: absolute;
+top: 102mm;
+left: 19mm;
+height: 90mm;
+width: 57mm;
+}
+
+img:nth-child(5) {
+    position: absolute;
+    top: 102mm;
+    left: 78mm;
+    height: 90mm;
+    width: 57mm;
+        }
+
+img:nth-child(6) {
+    position: absolute;
+    top: 102mm;
+    left: 136mm;
+    height: 90mm;
+    width: 57mm;
+}
+
+img:nth-child(7) {
+position: absolute;
+top: 194mm;
+left: 19mm;
+height: 90mm;
+width: 57mm;
+        }
+
+img:nth-child(8) {
+position: absolute;
+top: 194mm;
+left: 78mm;
+height: 90mm;
+width: 57mm;
+}
+
+img:nth-child(9) {
+    position: absolute;
+    top: 194mm;
+    left: 136mm;
+    height: 90mm;
+    width: 57mm;
+        }
